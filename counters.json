@@ -1,10 +1,10 @@
 {
   "sc-3435": {
     "label": "SC-3435",
-    "qty": 14317,
+    "qty": 14323,
     "milestone": 14000,
-    "text": "SC-3435 누적 판매 14,317대",
-    "milestone_text": "SC-3435 누적 판매 14,000대 돌파",
+    "text": "14,323대",
+    "milestone_text": "14,000대 돌파",
     "updated_at": "2026-08-28"
   }
 }
