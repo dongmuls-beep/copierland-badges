@@ -6,5 +6,13 @@
     "text": "14,323대",
     "milestone_text": "14,000 돌파",
     "updated_at": "2026-08-28"
+  },
+  "h320": {
+    "label": "H320",
+    "qty": 5611,
+    "milestone": 5000,
+    "text": "5,611대",
+    "milestone_text": "5,000 돌파",
+    "updated_at": "2026-08-28"
   }
 }
