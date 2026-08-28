@@ -4,10 +4,15 @@
   <defs>
     <clipPath id="reelClip"><rect x="0" y="120.0" width="848" height="60.0" /></clipPath>
     <style>
-      .pc-reel { animation: pc-count 2.0s steps(57, end) forwards; }
-      @keyframes pc-count {
-        from { transform: translateY(0); }
-        to { transform: translateY(-3306.0px); }
+      .pc-reel { animation: pc-loop 6.0s infinite; }
+      @keyframes pc-loop {
+        0% { transform: translateY(0); opacity: 1; animation-timing-function: steps(57, end); }
+        33.3333% { transform: translateY(-3306.0px); opacity: 1; }
+        83.3333% { transform: translateY(-3306.0px); opacity: 1; }
+        85.8333% { transform: translateY(-3306.0px); opacity: 0; }
+        85.8833% { transform: translateY(0); opacity: 0; }
+        88.3333% { transform: translateY(0); opacity: 1; }
+        100% { transform: translateY(0); opacity: 1; }
       }
     </style>
   </defs>
