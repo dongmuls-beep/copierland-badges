@@ -1,18 +1,18 @@
 {
   "sc-3435": {
     "label": "SC-3435",
-    "qty": 14357,
-    "milestone": 14300,
-    "text": "14,357대",
-    "milestone_text": "14,300 돌파",
-    "updated_at": "2026-09-01"
+    "qty": 14471,
+    "milestone": 14400,
+    "text": "14,471대",
+    "milestone_text": "14,400 돌파",
+    "updated_at": "2026-09-02"
   },
   "h320": {
     "label": "H320",
-    "qty": 5614,
+    "qty": 5617,
     "milestone": 5600,
-    "text": "5,614대",
+    "text": "5,617대",
     "milestone_text": "5,600 돌파",
-    "updated_at": "2026-09-01"
+    "updated_at": "2026-09-02"
   }
 }
