@@ -9,10 +9,10 @@
   },
   "h320": {
     "label": "H320",
-    "qty": 37498,
-    "milestone": 37400,
-    "text": "37,498대",
-    "milestone_text": "37,400 돌파",
+    "qty": 5619,
+    "milestone": 5600,
+    "text": "5,619대",
+    "milestone_text": "5,600 돌파",
     "updated_at": "2026-09-11"
   },
   "d30s": {
@@ -21,6 +21,14 @@
     "milestone": 94800,
     "text": "94,842대",
     "milestone_text": "94,800 돌파",
+    "updated_at": "2026-09-11"
+  },
+  "ne950": {
+    "label": "NE950 스탠딩데스크 시리즈",
+    "qty": 5351,
+    "milestone": 5300,
+    "text": "5,351대",
+    "milestone_text": "5,300 돌파",
     "updated_at": "2026-09-11"
   }
 }
