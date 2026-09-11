@@ -5,14 +5,22 @@
     "milestone": 14900,
     "text": "14,957대",
     "milestone_text": "14,900 돌파",
-    "updated_at": "2026-09-10"
+    "updated_at": "2026-09-11"
   },
   "h320": {
     "label": "H320",
-    "qty": 5619,
-    "milestone": 5600,
-    "text": "5,619대",
-    "milestone_text": "5,600 돌파",
-    "updated_at": "2026-09-10"
+    "qty": 37498,
+    "milestone": 37400,
+    "text": "37,498대",
+    "milestone_text": "37,400 돌파",
+    "updated_at": "2026-09-11"
+  },
+  "d30s": {
+    "label": "D30S 라벨프린터",
+    "qty": 94842,
+    "milestone": 94800,
+    "text": "94,842대",
+    "milestone_text": "94,800 돌파",
+    "updated_at": "2026-09-11"
   }
 }
