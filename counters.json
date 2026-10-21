@@ -1,17 +1,17 @@
 {
   "sc-3435": {
     "label": "SC-3435",
-    "qty": 15650,
+    "qty": 15661,
     "milestone": 15600,
-    "text": "15,650대",
+    "text": "15,661대",
     "milestone_text": "15,600대 돌파",
     "updated_at": "2026-10-21"
   },
   "h320": {
     "label": "H320",
-    "qty": 5842,
+    "qty": 5847,
     "milestone": 5800,
-    "text": "5,842대",
+    "text": "5,847대",
     "milestone_text": "5,800대 돌파",
     "updated_at": "2026-10-21"
   },
@@ -33,9 +33,9 @@
   },
   "h230": {
     "label": "H230 코팅기",
-    "qty": 4709,
+    "qty": 4711,
     "milestone": 4700,
-    "text": "4,709개",
+    "text": "4,711개",
     "milestone_text": "4,700개 돌파",
     "updated_at": "2026-10-21"
   },
