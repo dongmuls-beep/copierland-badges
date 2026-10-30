@@ -25,26 +25,26 @@
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 5954,
+    "qty": 5959,
     "milestone": 5900,
-    "text": "5,954대",
+    "text": "5,959대",
     "milestone_text": "5,900대 돌파",
     "updated_at": "2026-10-30"
   },
   "h230": {
     "label": "H230 코팅기",
-    "qty": 4731,
+    "qty": 4732,
     "milestone": 4700,
-    "text": "4,731개",
+    "text": "4,732개",
     "milestone_text": "4,700개 돌파",
     "updated_at": "2026-10-30"
   },
   "d30slabel": {
     "label": "D30S 라벨테이프",
-    "qty": 159793,
-    "milestone": 159700,
-    "text": "159,793롤",
-    "milestone_text": "159,700롤 돌파",
+    "qty": 159812,
+    "milestone": 159800,
+    "text": "159,812롤",
+    "milestone_text": "159,800롤 돌파",
     "updated_at": "2026-10-30"
   }
 }
