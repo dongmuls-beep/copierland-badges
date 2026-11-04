@@ -1,9 +1,9 @@
 {
   "sc-3435": {
     "label": "SC-3435",
-    "qty": 16612,
+    "qty": 16613,
     "milestone": 16600,
-    "text": "16,612대",
+    "text": "16,613대",
     "milestone_text": "16,600대 돌파",
     "updated_at": "2026-11-04"
   },
@@ -25,17 +25,17 @@
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6011,
+    "qty": 6027,
     "milestone": 6000,
-    "text": "6,011대",
+    "text": "6,027대",
     "milestone_text": "6,000대 돌파",
     "updated_at": "2026-11-04"
   },
   "h230": {
     "label": "H230 코팅기",
-    "qty": 4744,
+    "qty": 4746,
     "milestone": 4700,
-    "text": "4,744개",
+    "text": "4,746개",
     "milestone_text": "4,700개 돌파",
     "updated_at": "2026-11-04"
   },
