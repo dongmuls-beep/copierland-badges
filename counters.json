@@ -5,31 +5,31 @@
     "milestone": 16900,
     "text": "16,939대",
     "milestone_text": "16,900대 돌파",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   "h320": {
     "label": "H320",
-    "qty": 5923,
+    "qty": 5924,
     "milestone": 5900,
-    "text": "5,923대",
+    "text": "5,924대",
     "milestone_text": "5,900대 돌파",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   "d30s": {
     "label": "D30S 라벨프린터",
-    "qty": 97120,
+    "qty": 97127,
     "milestone": 97100,
-    "text": "97,120대",
+    "text": "97,127대",
     "milestone_text": "97,100대 돌파",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6117,
+    "qty": 6119,
     "milestone": 6100,
-    "text": "6,117대",
+    "text": "6,119대",
     "milestone_text": "6,100대 돌파",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   "h230": {
     "label": "H230 코팅기",
@@ -37,14 +37,14 @@
     "milestone": 4700,
     "text": "4,766개",
     "milestone_text": "4,700개 돌파",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   "d30slabel": {
     "label": "D30S 라벨테이프",
-    "qty": 160139,
+    "qty": 160184,
     "milestone": 160100,
-    "text": "160,139롤",
+    "text": "160,184롤",
     "milestone_text": "160,100롤 돌파",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   }
 }
