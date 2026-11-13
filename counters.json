@@ -25,9 +25,9 @@
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6129,
+    "qty": 6130,
     "milestone": 6100,
-    "text": "6,129대",
+    "text": "6,130대",
     "milestone_text": "6,100대 돌파",
     "updated_at": "2026-11-13"
   },
@@ -41,10 +41,10 @@
   },
   "d30slabel": {
     "label": "D30S 라벨테이프",
-    "qty": 160192,
-    "milestone": 160100,
-    "text": "160,192롤",
-    "milestone_text": "160,100롤 돌파",
+    "qty": 160202,
+    "milestone": 160200,
+    "text": "160,202롤",
+    "milestone_text": "160,200롤 돌파",
     "updated_at": "2026-11-13"
   }
 }
