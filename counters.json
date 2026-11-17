@@ -1,9 +1,9 @@
 {
   "sc-3435": {
     "label": "SC-3435",
-    "qty": 16971,
+    "qty": 16974,
     "milestone": 16900,
-    "text": "16,971대",
+    "text": "16,974대",
     "milestone_text": "16,900대 돌파",
     "updated_at": "2026-11-17"
   },
@@ -25,9 +25,9 @@
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6152,
+    "qty": 6153,
     "milestone": 6100,
-    "text": "6,152대",
+    "text": "6,153대",
     "milestone_text": "6,100대 돌파",
     "updated_at": "2026-11-17"
   },
