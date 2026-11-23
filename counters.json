@@ -17,17 +17,17 @@
   },
   "d30s": {
     "label": "D30S 라벨프린터",
-    "qty": 97171,
+    "qty": 97181,
     "milestone": 97100,
-    "text": "97,171대",
+    "text": "97,181대",
     "milestone_text": "97,100대 돌파",
     "updated_at": "2026-11-23"
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6201,
+    "qty": 6203,
     "milestone": 6200,
-    "text": "6,201대",
+    "text": "6,203대",
     "milestone_text": "6,200대 돌파",
     "updated_at": "2026-11-23"
   },
@@ -41,9 +41,9 @@
   },
   "d30slabel": {
     "label": "D30S 라벨테이프",
-    "qty": 160457,
+    "qty": 160461,
     "milestone": 160400,
-    "text": "160,457롤",
+    "text": "160,461롤",
     "milestone_text": "160,400롤 돌파",
     "updated_at": "2026-11-23"
   }
