@@ -25,17 +25,17 @@
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6270,
+    "qty": 6265,
     "milestone": 6200,
-    "text": "6,270대",
+    "text": "6,265대",
     "milestone_text": "6,200대 돌파",
     "updated_at": "2026-11-26"
   },
   "h230": {
     "label": "H230 코팅기",
-    "qty": 4979,
+    "qty": 4980,
     "milestone": 4900,
-    "text": "4,979개",
+    "text": "4,980개",
     "milestone_text": "4,900개 돌파",
     "updated_at": "2026-11-26"
   },
