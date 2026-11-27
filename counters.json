@@ -17,17 +17,17 @@
   },
   "d30s": {
     "label": "D30S 라벨프린터",
-    "qty": 97204,
+    "qty": 97203,
     "milestone": 97200,
-    "text": "97,204대",
+    "text": "97,203대",
     "milestone_text": "97,200대 돌파",
     "updated_at": "2026-11-27"
   },
   "ne950": {
     "label": "NE950 스탠딩데스크",
-    "qty": 6275,
+    "qty": 6279,
     "milestone": 6200,
-    "text": "6,275대",
+    "text": "6,279대",
     "milestone_text": "6,200대 돌파",
     "updated_at": "2026-11-27"
   },
